@@ -98,5 +98,7 @@
     &kp A &kp S &kp D &kp F &tog 6		&trans &trans &trans &trans &trans
     &kp Z &kp X &kp C &kp V &kp B		&trans &trans &trans &trans &trans
 	    &kp LALT &trans &kp SPACE		&trans &trans &trans
+	    		>;
+		};
         };
 };
